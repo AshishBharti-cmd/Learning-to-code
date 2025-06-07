@@ -1,2 +1,2 @@
 # Learning-to-code
-This is my starting of code learning journy 
+This is my very first project on github
